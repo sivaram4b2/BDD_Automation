@@ -1,0 +1,13 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> 
+
+<suite name="Test maven suite">
+ 
+  		<test name="Test maven test"> 
+  		
+    		<packages> 
+      			<package name="BDDframework.BDDframework"/> 
+    		</packages> 
+  		</test> 
+  
+</suite> 

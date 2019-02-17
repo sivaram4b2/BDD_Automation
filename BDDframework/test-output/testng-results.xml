@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test maven suite" duration-ms="67" started-at="2019-02-17T11:11:32Z" finished-at="2019-02-17T11:11:32Z">
+    <groups>
+    </groups>
+    <test name="Test maven test" duration-ms="67" started-at="2019-02-17T11:11:32Z" finished-at="2019-02-17T11:11:32Z">
+      <class name="BDDframework.BDDframework.Mavendemo">
+        <test-method status="PASS" signature="Print()[pri:0, instance:BDDframework.BDDframework.Mavendemo@69d9c55]" name="Print" duration-ms="19" started-at="2019-02-17T16:41:32Z" finished-at="2019-02-17T16:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:BDDframework.BDDframework.Mavendemo@69d9c55]" name="sum" duration-ms="4" started-at="2019-02-17T16:41:32Z" finished-at="2019-02-17T16:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- BDDframework.BDDframework.Mavendemo -->
+      <class name="BDDframework.BDDframework.Mavendemo1">
+        <test-method status="PASS" signature="Print()[pri:0, instance:BDDframework.BDDframework.Mavendemo1@5afa04c]" name="Print" duration-ms="3" started-at="2019-02-17T16:41:32Z" finished-at="2019-02-17T16:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:BDDframework.BDDframework.Mavendemo1@5afa04c]" name="sum" duration-ms="4" started-at="2019-02-17T16:41:32Z" finished-at="2019-02-17T16:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- BDDframework.BDDframework.Mavendemo1 -->
+    </test> <!-- Test maven test -->
+  </suite> <!-- Test maven suite -->
+</testng-results>
